@@ -1,5 +1,8 @@
 # PortfolioWebsite
 Website for my Portfolio
 
-This was build on a template from Dreamweaver2021 as a portfolio for my programming experience. As of right now there is not anything yet uploaded to it and the website is not live yet.
-I fully intend for this to go live in the near future and expect to be adding progects to the blank progect page.
+This is my portfolio website to show the projects that I am currently working on and have already finishedd working on. The final design of the website has yet to be finalized. 
+As I continue working on projects, some will be created, some will be removed. 
+This is all in relation to the Website. My GitHub Repository will continue to contain all uploaded projects.
+As of now the link too the website has a problem that I have not figured out how to fix just yet.
+Soon I will fix the link.
