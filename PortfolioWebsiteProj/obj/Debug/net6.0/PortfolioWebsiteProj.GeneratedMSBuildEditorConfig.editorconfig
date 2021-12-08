@@ -8,37 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PortfolioWebsiteProj
 build_property.RootNamespace = PortfolioWebsiteProj
-build_property.ProjectDir = /home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/
+build_property.ProjectDir = d:\GitHub\PortfolioWebsite\PortfolioWebsiteProj\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj
+build_property.MSBuildProjectDirectory = d:\GitHub\PortfolioWebsite\PortfolioWebsiteProj
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Bugs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVnc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Bugs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVnc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Bugs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVnc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Bugs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVnc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Bugs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVnc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jonah/Documents/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-lekhity9c7
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/GitHub/PortfolioWebsite/PortfolioWebsiteProj/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ljl892f2q2

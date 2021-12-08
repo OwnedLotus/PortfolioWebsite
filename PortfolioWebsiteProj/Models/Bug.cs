@@ -1,31 +1,16 @@
-namespace PortfolioWebsiteProj.Models;
+﻿namespace PortfolioWebsiteProj.Models;
 
 public class Bug
 {
-  [Key]
-  [Required]
-  public int BugId { get; set; }
-  [Required]
-  public string Title { get; set; }
-  
-  public string? Description { get; set; }
-  public DateTime DateEntered { get; set; }
-  
-  
-  public Bug()
-  {
-      DateEntered = DateTime.Now;
-  }
+    [Key]
+    public int Id { get; set; }
+    public string Title { get; set; }
+    public string Description { get; set; }
+    public bool IsResolved { get; set; }
+    public DateTime Date { get; private set; }
 
-  public Bug(string title, string description)
-  {
-      Title = title;
-      Description = description;
-  }
-  
-  
-  
-
-  
-  
+    public Bug()
+    {
+        Date = DateTime.Today;
+    }
 }
