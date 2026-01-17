@@ -32,17 +32,17 @@ const projects = [
     },
     {
         id: 3,
-        title: "Order Filer",
-        description: "WinForms application for intelligent order categorization and management with EF Core and SQLite database integration.",
+        title: "Order Manager",
+        description: "WinForms desktop application for order processing with Entity Framework Core and SQLite database integration.",
         image: "assets/images/OrderManager.png",
-        technologies: ["C#", "WinForms", "Entity Framework Core", "SQLite"],
+        technologies: ["C#", "WinForms", "Entity Framework Core", "SQLite", ".NET 10"],
         features: [
-            "Automated order categorization",
+            "Windows Forms desktop interface",
             "SQLite database storage",
             "EF Core ORM integration",
-            "Windows Forms GUI interface"
+            "Self-contained deployment"
         ],
-        descriptionLong: "A comprehensive order management system designed to automatically categorize and file orders based on custom rules. Built with Windows Forms for the desktop interface and Entity Framework Core for database operations, using SQLite for local data storage. The system processes order data and organizes it efficiently for easy retrieval and analysis.",
+        descriptionLong: "A desktop order management system built with .NET 10 and Windows Forms. Features Entity Framework Core for database operations with SQLite backend for local data storage. The application provides a complete solution for order processing, database management, and user interaction through an intuitive Windows interface.",
         github: "https://github.com/ownedlotus/OrderFiler"
     },
     {
