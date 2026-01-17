@@ -2,18 +2,18 @@
 const projects = [
     {
         id: 1,
-        title: "AsteroidSharp",
-        description: "Implementation of the classic Asteroids game using C# and Raylib with collision detection, lives, and shooting mechanics.",
-        image: "assets/images/Asteroids.png",
-        technologies: ["C#", "Raylib", "Game Development"],
+        title: "Order Manager",
+        description: "WinForms desktop application for order processing with Entity Framework Core and SQLite database integration.",
+        image: "assets/images/OrderManager.png",
+        technologies: ["C#", "WinForms", "Entity Framework Core", "SQLite", ".NET 10"],
         features: [
-            "Collision detection system",
-            "Lives and scoring system",
-            "Shooting mechanics with lockout",
-            "Smooth game performance"
+            "Windows Forms desktop interface",
+            "SQLite database storage",
+            "EF Core ORM integration",
+            "Self-contained deployment"
         ],
-        descriptionLong: "My implementation of the classic Asteroids arcade game using C# and the Raylib library. The game features complete collision detection, a lives system, scoring, and shooting mechanics. Built using the Raylib-CSharp implementation by MrScautHD.",
-        github: "https://github.com/ownedlotus/AsteroidSharp"
+        descriptionLong: "A desktop order management system built with .NET 10 and Windows Forms. Features Entity Framework Core for database operations with SQLite backend for local data storage. The application provides a complete solution for order processing, database management, and user interaction through an intuitive Windows interface.",
+        github: "https://github.com/ownedlotus/OrderFiler"
     },
     {
         id: 2,
@@ -32,18 +32,18 @@ const projects = [
     },
     {
         id: 3,
-        title: "Order Manager",
-        description: "WinForms desktop application for order processing with Entity Framework Core and SQLite database integration.",
-        image: "assets/images/OrderManager.png",
-        technologies: ["C#", "WinForms", "Entity Framework Core", "SQLite", ".NET 10"],
+        title: "AsteroidSharp",
+        description: "Implementation of classic Asteroids game using C# and Raylib with collision detection, lives, and shooting mechanics.",
+        image: "assets/images/Asteroids.png",
+        technologies: ["C#", "Raylib", "Game Development"],
         features: [
-            "Windows Forms desktop interface",
-            "SQLite database storage",
-            "EF Core ORM integration",
-            "Self-contained deployment"
+            "Collision detection system",
+            "Lives and scoring system",
+            "Shooting mechanics with lockout",
+            "Smooth game performance"
         ],
-        descriptionLong: "A desktop order management system built with .NET 10 and Windows Forms. Features Entity Framework Core for database operations with SQLite backend for local data storage. The application provides a complete solution for order processing, database management, and user interaction through an intuitive Windows interface.",
-        github: "https://github.com/ownedlotus/OrderFiler"
+        descriptionLong: "My implementation of classic Asteroids arcade game using C# and Raylib library. The game features complete collision detection, a lives system, scoring, and shooting mechanics. Built using Raylib-CSharp implementation by MrScautHD.",
+        github: "https://github.com/ownedlotus/AsteroidSharp"
     },
     {
         id: 4,
