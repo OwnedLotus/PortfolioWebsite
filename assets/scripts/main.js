@@ -1,4 +1,3 @@
-// Project data with placeholder information
 const projects = [
     {
         id: 1,
@@ -48,16 +47,16 @@ const projects = [
     {
         id: 4,
         title: "PongSharp",
-        description: "Classic Pong game implementation in C# using Raylib, featuring smooth gameplay and responsive controls.",
+        description: "Classic Pong game implementation in C# with Raylib, featuring two-player gameplay and collision mechanics.",
         image: "assets/images/Pong.png",
         technologies: ["C#", "Raylib", "Game Development"],
         features: [
-            "Classic Pong gameplay",
-            "Smooth paddle controls",
-            "Ball physics",
-            "Score tracking"
+            "Two-player competitive gameplay",
+            "Smooth paddle controls and movement",
+            "Ball physics and collision detection",
+            "Game state management (Startup, Playing, GameOver)"
         ],
-        descriptionLong: "My implementation of the classic Pong game using C# and Raylib. This project demonstrates fundamental game development concepts including collision detection, player input handling, and game state management using the raylib-cs package.",
+        descriptionLong: "A complete two-player Pong implementation using C# and Raylib-cs. Features smooth paddle controls, ball physics, and collision detection. Includes proper game state management with startup screen, active gameplay, and game over states. Built to handle 60 FPS gameplay with responsive controls.",
         github: "https://github.com/ownedlotus/PongSharp"
     },
     {
